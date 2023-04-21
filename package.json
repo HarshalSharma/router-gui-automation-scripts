@@ -1,0 +1,15 @@
+{
+  "name": "router-gui-automation-scripts",
+  "version": "1.0.0",
+  "description": "Router Gui automation scripts in cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "npm cypress open"
+  },
+  "author": "harshalsharma",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  }
+}
